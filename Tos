@@ -1,101 +1,97 @@
-Meowderator — Privacy Policy
+Meowderator — Terms of Service
 Last updated: 25. nov. 2026
-• Meowderator only stores what it needs to run its features in your server.
-• I never sell your data, never use it for ads and never use it to train AI.
-• Most data belongs to a server's setup. Remove the bot, and that server's data is deleted within 30 days.
-• You can ask for a copy of your data, or ask me to delete it, at any time.
-The full policy below is what actually applies; this box is just the gist.
-1. Who runs Meowderator
-Meowderator is run by its developer ("I", "me"), who is responsible for the data it handles (the "data controller" under laws like the GDPR). This policy explains what the bot collects, why, and what you can do about it. It goes together with the Terms of Service.
-Server admins choose which features are turned on in their server, which decides what data the bot handles there.
-2. What the bot collects
-The bot only collects what a feature needs, and many features only collect data when a server turns them on.
-Type
-What it includes
-When
-Server data
-Server ID, channel and role IDs, settings, colors, custom embeds, buttons, panels
-When the bot joins and when admins set it up
-User identifiers
-Discord user ID, username, display name, avatar
-When you use a command, or a feature involves you (welcome card, rank card, moderation)
-Moderation records
-Warnings, bans, kicks, timeouts, reasons, the moderator, case numbers, times
-When staff or automod take action
-Message content
-Message text and attachment info
-Processed live for commands, automod, anti-spam and logs. Kept only briefly in memory, unless a server turns on a feature that saves it
-Anti-nuke data
-Audit log events: who created, deleted or changed channels, roles, bans or webhooks, and when
-While anti-nuke is on
-Levels
-XP, level, message counts
-Only if a server turns levels on
-Tickets
-Ticket messages, transcripts, who opened and closed them
-When tickets are used
-Keys and access
-Key codes, who redeemed them, when, what access they gave
-When a server uses the key panel
-Roblox data
-Roblox username, user ID, public profile info
-Only if you use Roblox features
-Technical data
-Command usage, error logs, timestamps
-While the bot runs
-3. What the bot doesn't collect
-• No passwords, Discord tokens or login details.
-• No payment or card details (Meowderator is free).
-• No IP addresses, location or device info. Discord doesn't give bots this.
-• No DMs, except messages you send directly to the bot.
-• Nothing from servers the bot isn't in.
-4. How the data is used
-Data is used only to:
-• run the bot's features in the servers that added it;
-• keep servers safe (automod, anti-nuke, anti-raid, blacklists);
-• fix bugs, stop abuse and keep the bot running;
-• follow the law.
-It's never sold, used for ads, used to build profiles of you, or used to train AI.
-Legal basis (for the EU, EEA and UK):
-• Legitimate interests: running the features a server has chosen, and keeping servers and the bot safe from abuse.
-• Contract: providing the Service under the Terms of Service.
-• Legal obligation: when the law requires it.
-5. Who the data is shared with
-I never sell or rent data. It's only shared with:
-• Discord, because the bot runs on Discord and everything goes through it.
-• My hosting provider, which stores the bot's database on its servers.
-• Roblox, only when you use Roblox features, to look up public profiles.
-• Authorities, only when the law requires it, or to protect the Service, users or the public from serious harm.
-• A new owner, if the bot is ever handed over. This policy keeps applying to your data.
-Data may be stored or processed outside your country. Where the law requires it, I use proper safeguards for those transfers.
-Anything the bot posts in a server (logs, cards, moderation messages) can be seen by that server's members based on its channel permissions. The server controls that, not me.
-6. How long data is kept
-Data
-Kept for
-Server settings, moderation records, levels, keys, tickets
-As long as the bot is in the server. Deleted within 30 days after the bot is removed
-Message content
-Only briefly in memory, unless a feature the server turned on saves it
-Ticket transcripts
-Until the server deletes them, or 30 days after the bot is removed
-Technical and error logs
-Up to 30 days
-Blacklist records
-As long as needed to stop abuse
-Server admins can have their server's data deleted at any time by removing the bot or contacting me. For your own data, see section 8.
-7. Security
-I take reasonable steps to protect the data, such as limiting who can reach the database and keeping the bot's token secret. But no system is completely secure, and I can't promise yours will never be exposed.
-To the maximum extent permitted by law, I'm not responsible for breaches caused by things outside my control, such as attacks on Discord, my host or other third parties. If a breach puts your rights at real risk, I'll tell you as the law requires.
-8. Your rights
-Depending on where you live (for example under the GDPR in the EU, EEA or UK), you can:
-• get a copy of the data the bot holds about you;
-• have wrong data corrected;
-• have your data deleted;
-• object to, or limit, how it's used;
-• get your data in a portable format;
-• complain to your local data protection authority.
-Some data may be kept after a deletion request when there's a good reason, such as a blacklist entry to stop abuse, or a moderation record a server needs for its safety. Deleting your data may also mean some features stop working for you.
-9. Children
-Meowderator isn't meant for anyone under 13, or under Discord's minimum age in their country. I don't knowingly collect data from children below that age. If you think a child's data is stored, contact me and I'll delete it.
-10. Changes
-I can update this policy at any time. The "Last updated" date at the top shows the newest version, and big changes will be announced in the support server. The updated policy applies from the day it's posted.
+Terms of Service · Privacy Policy
+Meowderator is free and comes with no promises. You use it entirely at your own risk.
+• If the bot goes offline, breaks, gets removed or shuts down for good, that's not my problem.
+• If you lose messages, channels, roles, members, data, money or your whole server, that's not my problem.
+• If anti-nuke, automod or any other feature fails to stop a raid, nuke or scam, that's not my problem.
+• If a moderation action hits the wrong person, that's on whoever set it up or ran the command, not me.
+• I don't owe you support, fixes, refunds or compensation.
+• It's a free bot I give away as a favor. If anything goes wrong, you can't hold me responsible or take any action against me. By using Meowderator, you agree to these Terms.
+By adding or using Meowderator, you agree to all of this. You've been warned. The full terms below are what legally apply; this box is just the gist.
+1. Agreeing to these terms
+These Terms of Service ("Terms") are an agreement between you and the developer of Meowderator ("I", "me", "my"). They cover the Meowderator Discord bot, its commands, features, images and anything else I provide with it (together, the "Service").
+• By adding Meowderator to a server or using any of its features, you agree to these Terms and the Privacy Policy. If you don't agree, don't use it, and remove it from your server.
+• You must be at least 13, or the minimum age to use Discord in your country, whichever is higher.
+• You must follow Discord's Terms of Service and Community Guidelines at all times.
+• If you add the bot for a server, group or business, you confirm you're allowed to, and these Terms bind you and that server.
+2. The Service
+Meowderator is provided for free. I have no duty to keep it running, updated or supported.
+• I can change, add, remove, limit or pause any feature, command or limit at any time, with or without notice.
+• I can shut the whole Service down permanently at any time, for any reason, without notice.
+• Downtime, bugs, lag, rate limits, outages at my host or at Discord, and Discord API changes can all break the bot. None of that is my responsibility.
+• Any support I give is a courtesy, given if and when I choose. Helping once doesn't mean I have to help again.
+3. You're responsible for your server
+You control how Meowderator is set up and used in your server, so you're responsible for what happens.
+• Setup: every setting, filter, automod rule, anti-nuke rule, auto-role, ticket, embed, button and key panel in your server is set up by you or your staff. What the bot does because of that setup counts as your action.
+• Permissions: you choose which permissions the bot gets. Giving it Administrator or other powerful permissions is your decision and your risk.
+• Moderation: bans, kicks, timeouts, warnings, purges and role changes made through the bot come from your staff or your settings. Check them yourself. I'm not responsible for wrong, missed or unfair actions.
+• Protection is not a guarantee: anti-nuke, anti-raid, automod and verification lower risk, but nothing stops every attack. Don't rely on the bot as your only protection.
+• Backups: keep your own backups of anything you care about. If messages, channels, roles, settings, transcripts or other data are lost, deleted or corrupted, I won't restore or replace them.
+• Keys and access panels: if you use the key or access features, you create, sell or hand out those keys yourself. Any deal, payment, product, refund or dispute between you and your members is only between you and them. I'm not part of it.
+• Your members: you're responsible for letting your members know the bot is in your server, and for how your staff use it.
+4. Rules
+You must not:
+• use Meowderator to break Discord's rules or any law;
+• use it to spam, raid, nuke, harass, threaten, dox, scam or impersonate anyone;
+• exploit bugs, get around limits, or try to crash, overload, hack or attack the bot, its host or its data;
+• copy, clone, decompile, reverse engineer or rebrand the bot, or make bots that pretend to be it;
+• sell, rent or resell the bot itself (using its key panel for your own products is fine);
+• scrape the bot, or use anything from it to train AI;
+• use it to collect other people's data without permission.
+If you find a bug or security hole, you must not use it or share it.
+5. Blacklisting and ending use
+• I can block, blacklist, limit or remove any user or server from the Service at any time, for any reason or no reason, with or without notice. I don't have to explain why.
+• I can make the bot leave any server at any time.
+• You can stop using the Service at any time by removing the bot from your server.
+• When your use ends for any reason, your permission to use the Service ends too. Sections 3 and 6 to 12 keep applying after that.
+• Being blacklisted or losing access doesn't entitle you to any refund or compensation.
+6. Ownership and your content
+• The bot is mine. Meowderator, its name, code, designs, images, card layouts, commands and features belong to me. You only get a personal, limited, non-exclusive, non-transferable and revocable permission to use it under these Terms.
+• Your content stays yours. Text, images, embeds, settings and anything else you put into the bot ("Your Content") stays yours.
+• You give me a free, worldwide license to store, process, copy, display and send Your Content, only as needed to run, maintain, protect and improve the Service.
+• You promise you have the rights to Your Content, and that it doesn't break any law or anyone's rights. You alone are responsible for it.
+• I don't check content in advance, but I can remove or block any content at any time.
+• I can use any feedback or ideas you give me freely, without paying or crediting you.
+7. Discord, Roblox and other services
+• Meowderator is not made, endorsed or supported by Discord Inc. or Roblox Corporation. "Discord" and "Roblox" are their trademarks.
+• The bot depends on Discord, Roblox and my hosting provider. If they go down, change their rules or APIs, limit the bot, or take action against your account or server, I'm not responsible.
+• Your use of Discord and Roblox falls under their own terms and privacy policies, not mine.
+• Links, content or services from others that show up through the bot are their responsibility, not mine.
+8. No warranties
+The Service is provided "as is" and "as available", with all faults, and without any warranty of any kind.
+To the maximum extent permitted by law, I disclaim all warranties, express or implied. That includes merchantability, fitness for a particular purpose, title, non-infringement, accuracy, reliability, security, and uninterrupted or error-free operation.
+I don't promise that the bot will work, stay online, keep your data, protect your server, be free of bugs, or meet your needs. Anything you do or decide based on the bot is at your own risk.
+9. Limitation of liability
+To the maximum extent permitted by law, I am not liable for any loss or damage of any kind that comes from, or is related to, the Service. That includes:
+• loss of data, messages, channels, roles, settings, transcripts, XP or levels;
+• raids, nukes, hacks, scams or takeovers of your server, whether or not the bot was set up to stop them;
+• wrong, missed or unfair bans, kicks, timeouts, warnings or deletions;
+• loss of members, reputation, sales, income, profit or business;
+• anything Discord or Roblox does to your account or server;
+• downtime, bugs, errors, delays, or the Service being shut down;
+• indirect, incidental, special, consequential, exemplary or punitive damages.
+This applies whatever the legal theory (contract, tort, negligence or anything else), and even if I was told the loss could happen.
+If I'm found liable anyway, my total liability for all claims combined is limited to what you paid me for the Service in the 12 months before the claim. If you paid nothing, that amount is zero.
+It's a free bot. You understand that Meowderator is given away for free, as a favor, and that you choose to use it knowing the risks. To the maximum extent permitted by law, you give up all claims against me related to the Service and agree not to take legal action against me over it.
+10. You cover my costs
+To the maximum extent permitted by law, you agree to defend, indemnify and hold me harmless from any claims, damages, losses, fines, costs and legal fees that come from:
+• your use or misuse of the Service;
+• your server, your staff and your settings;
+• Your Content;
+• keys, products or deals between you and your members;
+• your breach of these Terms or any law, or your violation of anyone else's rights.
+11. Paid features and refunds
+Meowderator is free right now. If I ever add paid features, these rules apply on top of the rest of these Terms:
+• All payments are final and non-refundable, to the maximum extent permitted by law. That includes partial months, unused time, and access lost through blacklisting, downtime or the Service shutting down.
+• Paid features start right away. If you're a consumer in the EU, EEA or UK, you agree to get access immediately when you buy, and you accept that you lose your 14-day right of withdrawal once access starts.
+• I can change prices and what paid features include at any time. Price changes to a subscription apply from your next billing period.
+• Filing a chargeback or payment dispute without contacting me first can get you permanently blacklisted.
+12. Changes, law and the legal stuff
+• Changes: I can update these Terms at any time. The "Last updated" date at the top shows the newest version. If you keep using the Service after a change, you accept the new Terms.
+• What the law doesn't allow: nothing in these Terms limits or excludes liability that legally can't be limited or excluded, such as for intent, gross negligence, or death or personal injury caused by negligence. It also doesn't take away your mandatory consumer rights. Every other part of these Terms still applies in full.
+• Severability: if any part of these Terms can't be enforced, that part is limited only as much as needed, and everything else stays in force.
+• No waiver: if I don't enforce a rule straight away, I can still enforce it later.
+• Transfer: you can't transfer your rights under these Terms. I can transfer mine, for example if the bot gets a new owner.
+• Entire agreement: these Terms and the Privacy Policy are the whole agreement between us about the Service.
+• Language: if a translation differs from this English version, the English version wins
