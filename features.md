@@ -86,3 +86,6 @@ Meowderator
 
 **🧱 Roblox**
 /roblox setup · verify · unverify · user · group · game · update
+
+
+https://discord.com/oauth2/authorize?client_id=1575202715246661775&permissions=8&integration_type=0&scope=bot
