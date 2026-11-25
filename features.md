@@ -36,3 +36,53 @@ Meowderator
 /role add · remove · temp · all · removeall
 /note add · list · delete
 /vc mute · unmute · deafen · undeafen · kick · move · moveall · lock
+
+**🤖 Auto-mod**
+/automod /modqueue
+/filter add · remove · list · test
+
+**📜 Logs**
+/logs /logsearch
+
+**🎫 Support**
+/modmail setup · close · block · unblock · snippet
+/ticket setup · close · claim · unclaim · add · remove · rename · transfer · priority · transcript
+/form setup · send · list · results
+
+**✨ Embeds & keys**
+/embed create · edit · send · templates
+/keys setup · generate · import · list · revoke · reset · export
+/redeem
+
+**🎭 Roles & welcome**
+/rolemenu create · edit · list · delete
+/autorole /welcome
+
+**⚡ Automation**
+/cc create · edit · delete · list · info
+/autoresponder add · edit · remove · list
+/schedule add · list · pause · delete
+/sticky set · remove · list
+/announce
+
+**🎉 Community**
+/suggest /starboard /afk
+/suggestion setup · approve · deny · consider
+/poll create · end · results
+/giveaway start · end · reroll · list · settings
+/level rank · leaderboard · settings · set · reset · rewards
+/birthday set · remove · list · settings
+/invites check · leaderboard · settings
+/remind me · list · delete
+/highlight add · remove · list
+
+**🔊 Voice**
+/tempvoice setup · lock · unlock · limit · rename · kick · transfer · claim
+
+**ℹ️ Info**
+/info user · server · role · channel · emoji · invite · bot
+/avatar
+/emoji steal · add · rename · delete
+
+**🧱 Roblox**
+/roblox setup · verify · unverify · user · group · game · update
