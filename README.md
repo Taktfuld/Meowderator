@@ -13,11 +13,4 @@ Meowderator is a free project, so please read this first:
 - **Your data:** everything the bot stores is listed in the Privacy Policy. If it ever collects something that isn't listed there, that's probably a bug. Let me know, and it'll be fixed and the data removed. Discord, Roblox and other services collect their own data under their own rules.
 - **Be nice.** Using the bot to break rules or hurt others gets you blacklisted.
 
-## 📜 The official stuff
-
-- [Terms of Service](https://github.com/Taktfuld/Meowderator/blob/main/Tos)
-- [Privacy Policy](https://github.com/Taktfuld/Meowderator/blob/main/Privacy%20Policy)
-
-Those are the real rules. This README is just the friendly version.
-
 > Thanks for using Meowderator! Have fun and stay safe. 🐈
