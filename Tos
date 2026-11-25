@@ -1,1 +1,102 @@
-
+Meowderator — Privacy Policy
+Last updated: 25. nov. 2026
+• Meowderator only stores what it needs to run its features in your server.
+• I never sell your data, never use it for ads and never use it to train AI.
+• Most data belongs to a server's setup. Remove the bot, and that server's data is deleted within 30 days.
+• You can ask for a copy of your data, or ask me to delete it, at any time.
+The full policy below is what actually applies; this box is just the gist.
+1. Who runs Meowderator
+Meowderator is run by its developer ("I", "me"), who is responsible for the data it handles (the "data controller" under laws like the GDPR). This policy explains what the bot collects, why, and what you can do about it. It goes together with the Terms of Service.
+Server admins choose which features are turned on in their server, which decides what data the bot handles there.
+2. What the bot collects
+The bot only collects what a feature needs, and many features only collect data when a server turns them on.
+Type
+What it includes
+When
+Server data
+Server ID, channel and role IDs, settings, colors, custom embeds, buttons, panels
+When the bot joins and when admins set it up
+User identifiers
+Discord user ID, username, display name, avatar
+When you use a command, or a feature involves you (welcome card, rank card, moderation)
+Moderation records
+Warnings, bans, kicks, timeouts, reasons, the moderator, case numbers, times
+When staff or automod take action
+Message content
+Message text and attachment info
+Processed live for commands, automod, anti-spam and logs. Kept only briefly in memory, unless a server turns on a feature that saves it
+Anti-nuke data
+Audit log events: who created, deleted or changed channels, roles, bans or webhooks, and when
+While anti-nuke is on
+Levels
+XP, level, message counts
+Only if a server turns levels on
+Tickets
+Ticket messages, transcripts, who opened and closed them
+When tickets are used
+Keys and access
+Key codes, who redeemed them, when, what access they gave
+When a server uses the key panel
+Roblox data
+Roblox username, user ID, public profile info
+Only if you use Roblox features
+Technical data
+Command usage, error logs, timestamps
+While the bot runs
+3. What the bot doesn't collect
+• No passwords, Discord tokens or login details.
+• No payment or card details (Meowderator is free).
+• No IP addresses, location or device info. Discord doesn't give bots this.
+• No DMs, except messages you send directly to the bot.
+• Nothing from servers the bot isn't in.
+4. How the data is used
+Data is used only to:
+• run the bot's features in the servers that added it;
+• keep servers safe (automod, anti-nuke, anti-raid, blacklists);
+• fix bugs, stop abuse and keep the bot running;
+• follow the law.
+It's never sold, used for ads, used to build profiles of you, or used to train AI.
+Legal basis (for the EU, EEA and UK):
+• Legitimate interests: running the features a server has chosen, and keeping servers and the bot safe from abuse.
+• Contract: providing the Service under the Terms of Service.
+• Legal obligation: when the law requires it.
+5. Who the data is shared with
+I never sell or rent data. It's only shared with:
+• Discord, because the bot runs on Discord and everything goes through it.
+• My hosting provider, which stores the bot's database on its servers.
+• Roblox, only when you use Roblox features, to look up public profiles.
+• Authorities, only when the law requires it, or to protect the Service, users or the public from serious harm.
+• A new owner, if the bot is ever handed over. This policy keeps applying to your data.
+Data may be stored or processed outside your country. Where the law requires it, I use proper safeguards for those transfers.
+Anything the bot posts in a server (logs, cards, moderation messages) can be seen by that server's members based on its channel permissions. The server controls that, not me.
+6. How long data is kept
+Data
+Kept for
+Server settings, moderation records, levels, keys, tickets
+As long as the bot is in the server. Deleted within 30 days after the bot is removed
+Message content
+Only briefly in memory, unless a feature the server turned on saves it
+Ticket transcripts
+Until the server deletes them, or 30 days after the bot is removed
+Technical and error logs
+Up to 30 days
+Blacklist records
+As long as needed to stop abuse
+Server admins can have their server's data deleted at any time by removing the bot or contacting me. For your own data, see section 8.
+7. Security
+I take reasonable steps to protect the data, such as limiting who can reach the database and keeping the bot's token secret. But no system is completely secure, and I can't promise yours will never be exposed.
+To the maximum extent permitted by law, I'm not responsible for breaches caused by things outside my control, such as attacks on Discord, my host or other third parties. If a breach puts your rights at real risk, I'll tell you as the law requires.
+8. Your rights
+Depending on where you live (for example under the GDPR in the EU, EEA or UK), you can:
+• get a copy of the data the bot holds about you;
+• have wrong data corrected;
+• have your data deleted;
+• object to, or limit, how it's used;
+• get your data in a portable format;
+• complain to your local data protection authority.
+To use these rights, contact me at [CONTACT EMAIL] or [SUPPORT SERVER LINK]. I may ask you to prove the Discord account is yours, and I'll answer within one month.
+Some data may be kept after a deletion request when there's a good reason, such as a blacklist entry to stop abuse, or a moderation record a server needs for its safety. Deleting your data may also mean some features stop working for you.
+9. Children
+Meowderator isn't meant for anyone under 13, or under Discord's minimum age in their country. I don't knowingly collect data from children below that age. If you think a child's data is stored, contact me and I'll delete it.
+10. Changes
+I can update this policy at any time. The "Last updated" date at the top shows the newest version, and big changes will be announced in the support server. The updated policy applies from the day it's posted.
