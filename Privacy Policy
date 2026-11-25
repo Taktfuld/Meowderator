@@ -1,9 +1,10 @@
 Meowderator — Privacy Policy
 Last updated: 25. nov. 2026
+Terms of Service · Privacy Policy
 • Meowderator only stores what it needs to run its features in your server.
 • I never sell your data, never use it for ads and never use it to train AI.
 • Most data belongs to a server's setup. Remove the bot, and that server's data is deleted within 30 days.
-• You can ask for a copy of your data, or ask me to delete it, at any time.
+• It's a free bot run by one person, so data requests are only handled as far as the law requires (see section 8).
 The full policy below is what actually applies; this box is just the gist.
 1. Who runs Meowderator
 Meowderator is run by its developer ("I", "me"), who is responsible for the data it handles (the "data controller" under laws like the GDPR). This policy explains what the bot collects, why, and what you can do about it. It goes together with the Terms of Service.
@@ -82,21 +83,26 @@ Technical and error logs
 Up to 30 days
 Blacklist records
 As long as needed to stop abuse
-Server admins can have their server's data deleted at any time by removing the bot or contacting me. For your own data, see section 8.
+Server admins can have their server's data deleted at any time by removing the bot. For your own data, see section 8.
 7. Security
 I take reasonable steps to protect the data, such as limiting who can reach the database and keeping the bot's token secret. But no system is completely secure, and I can't promise yours will never be exposed.
 To the maximum extent permitted by law, I'm not responsible for breaches caused by things outside my control, such as attacks on Discord, my host or other third parties. If a breach puts your rights at real risk, I'll tell you as the law requires.
 8. Your rights
-Depending on where you live (for example under the GDPR in the EU, EEA or UK), you can:
+Meowderator is free and run by one person, so I only handle data requests where the law requires me to. Depending on where you live (for example under the GDPR in the EU, EEA or UK), the law gives you some rights over your data that no terms can remove. You can:
 • get a copy of the data the bot holds about you;
 • have wrong data corrected;
 • have your data deleted;
 • object to, or limit, how it's used;
 • get your data in a portable format;
 • complain to your local data protection authority.
-To use these rights, contact me at [CONTACT EMAIL] or [SUPPORT SERVER LINK]. I may ask you to prove the Discord account is yours, and I'll answer within one month.
+How requests work:
+• Requests are only accepted through [SUPPORT SERVER LINK]. DMs, pings and anything else are ignored.
+• You must prove the Discord account is yours.
+• You only get data about yourself. Server data, other people's data, and records that would affect other people's rights are never handed out.
+• Requests that are clearly unfounded, repeated or excessive are refused, as the law allows.
+• I answer within the time the law requires, normally one month.
 Some data may be kept after a deletion request when there's a good reason, such as a blacklist entry to stop abuse, or a moderation record a server needs for its safety. Deleting your data may also mean some features stop working for you.
 9. Children
-Meowderator isn't meant for anyone under 13, or under Discord's minimum age in their country. I don't knowingly collect data from children below that age. If you think a child's data is stored, contact me and I'll delete it.
+Meowderator isn't meant for anyone under 13, or under Discord's minimum age in their country. I don't knowingly collect data from children below that age. If you think a child's data is stored, ask for it to be deleted as described in section 8.
 10. Changes
 I can update this policy at any time. The "Last updated" date at the top shows the newest version, and big changes will be announced in the support server. The updated policy applies from the day it's posted.
